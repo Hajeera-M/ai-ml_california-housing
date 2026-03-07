@@ -43,3 +43,17 @@ R² Score: 0.599
 
 
 This project demonstrates practical understanding of regression models, feature engineering, evaluation metrics, and version control workflow.
+
+## Task 3 – Model Validation & Hyperparameter Tuning
+
+In this task, we improved model performance and handled overfitting.
+
+Key steps:
+- Detected overfitting using Decision Tree
+- Applied Cross-Validation to evaluate model stability
+- Used GridSearchCV for Hyperparameter Tuning
+- Optimized model performance
+
+Final Model Performance:
+- RMSE: 0.645
+- R² Score: 0.682
